@@ -17,3 +17,8 @@ def halve(number):
         return None
     
     return number / 2
+
+greet_programmer()
+greet("Martin")
+greet_with_default()
+halve(56)
